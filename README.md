@@ -1,2 +1,39 @@
 # semiu_cloud_devops
-cloud and devops projects
+this application is for a git command chatbot
+git commands and what they do
+- git clone   
+- git add
+- git commit
+- git push
+- git pull
+- git status
+- git log
+- git branch
+- git checkout
+- git merge
+- git rebase
+- git stash
+- git remote
+- git fetch
+- git tag
+- git diff
+- git reset
+- git rm
+- git mv
+- git show
+- git blame
+- git bisect
+- git cherry-pick
+- git revert
+- git clean
+- git archive
+- git gc
+- git fsck
+- git reflog
+- git submodule
+- git worktree
+- git bundle
+- git config
+- git help
+- git init
+-
