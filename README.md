@@ -34,6 +34,12 @@ git commands and what they do
 - git worktree
 - git bundle
 - git config
+- install git
+- install vscode
+- create a new repository
+- cretate a pulll request
+- protect your branch
+- create a merge
 - git help
 - git init
 -
